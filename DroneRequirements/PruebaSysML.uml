@@ -36,6 +36,7 @@
       <nestedClassifier xmi:type="uml:Class" xmi:id="_m5qM8MYGEeeyv7ushnNdsQ" name="Use fire extinguisher"/>
     </packagedElement>
     <packagedElement xmi:type="uml:Class" xmi:id="_TdehEMYGEeeyv7ushnNdsQ" name="Get fire extinguisher"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="_Cxv5sM1QEeeS9rAG_HBXtA" name="Prueba"/>
     <profileApplication xmi:type="uml:ProfileApplication" xmi:id="_0dR4gMMdEeeEluDV2uAdlw">
       <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_0dTGoMMdEeeEluDV2uAdlw" source="http://www.eclipse.org/uml2/2.0.0/UML">
         <references xmi:type="ecore:EPackage" href="http://www.eclipse.org/papyrus/sysml/1.4/SysML#/"/>
@@ -120,4 +121,5 @@
   <Requirements:Requirement xmi:id="_lZZ-QMbOEee0P7Ly8l1XUw" base_Class="_lZPmMMbOEee0P7Ly8l1XUw" id="1.6.1" text="Drone MUST fly over the security height in order to avoid people"/>
   <Requirements:Requirement xmi:id="_pOEisMbOEee0P7Ly8l1XUw" base_Class="_pN6KoMbOEee0P7Ly8l1XUw" id="1.6.2" text="Drone MUST reamin allways within the building perimeter"/>
   <Requirements:Requirement xmi:id="_sM8uoMbOEee0P7Ly8l1XUw" base_Class="_sMy9oMbOEee0P7Ly8l1XUw" id="1.6.3" text="The access to the drone communication system MUST be protected with a log in password"/>
+  <Requirements:Requirement xmi:id="_Cy6XUM1QEeeS9rAG_HBXtA" base_Class="_Cxv5sM1QEeeS9rAG_HBXtA"/>
 </xmi:XMI>
